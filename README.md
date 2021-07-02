@@ -51,14 +51,17 @@ The training log for 20 eposchs is shown below
 <img alt="Forwarding" src="https://github.com/gokul-pv/EVA6_Assignments_Session8/blob/main/Images/Log1.png?raw=true" width =500><br>
 <em style="color: grey">Figure 4.1 : log1 (epoch 1 to 8) </em>
  </p> 
+ 
  <p align="center" style="padding: 10px">
-<img alt="Forwarding" src=" https://github.com/gokul-pv/EVA6_Assignments_Session8/blob/main/Images/log2.png?raw=true" width =500><br>
+<img alt="Forwarding" src="https://github.com/gokul-pv/EVA6_Assignments_Session8/blob/main/Images/log2.png?raw=true" width =500><br>
 <em style="color: grey">Figure 4.2 : log2 (epoch 8 to 14) </em>
  </p> 
-  <p align="center" style="padding: 10px">
-<img alt="Forwarding" src=" https://github.com/gokul-pv/EVA6_Assignments_Session8/blob/main/Images/log3.png?raw=true" width =500><br>
+ 
+
+<p align="center" style="padding: 10px">
+<img alt="Forwarding" src="https://github.com/gokul-pv/EVA6_Assignments_Session8/blob/main/Images/log3.png?raw=true" width =500><br>
 <em style="color: grey">Figure 4.3 : log3 (epoch 14 to 20) </em>
- </p> 
+</p> 
 
   
 The test and validation loss and accuracy are shown below
