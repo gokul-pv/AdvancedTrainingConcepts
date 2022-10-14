@@ -1,7 +1,7 @@
 # Advanced Training Concepts
 > Class activation maps, Weight Updates, Optimizers & LR Schedulers
 
-The model is done using CIFAR-10 dataset. It consists of 60000 32x32 color (3-channel) images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. It has the classes: ‘airplane’, ‘automobile’, ‘bird’, ‘cat’, ‘deer’, ‘dog’, ‘frog’, ‘horse’, ‘ship’, ‘truck’.
+The model is trained using CIFAR-10 dataset. It consists of 60000 32x32 color (3-channel) images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. It has the classes: ‘airplane’, ‘automobile’, ‘bird’, ‘cat’, ‘deer’, ‘dog’, ‘frog’, ‘horse’, ‘ship’, ‘truck’.
 
 <p align="center" style="padding: 10px">
 <img alt="Forwarding" src="https://github.com/gokul-pv/AdvancedTrainingConcepts/blob/main/Images/dataset_images.png?raw=true" width =500><br>
